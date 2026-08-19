@@ -1,6 +1,8 @@
 body{
-    background-color: bisque;
+    background-color: rgb(251, 231, 207);
     font-family: 'Courier New', Courier, monospace;
+    letter-spacing: -1px;
+    font-weight: bold;
 }
 .ashmit{
     color: #B22222;
@@ -12,5 +14,10 @@ body{
 }
 .head{
     color: maroon;
-    font-size: 36px;
+    font-size: large;
+}
+.img1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;  
 }

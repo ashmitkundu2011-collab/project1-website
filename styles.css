@@ -10,11 +10,11 @@ body{
 }
 .intro{
     color: #5C0000;
-    font-size: xx-large;
+    font-size: large;
 }
 .head{
     color: maroon;
-    font-size: large;
+    font-size: xx-large;
 }
 .img1{
     display: flex;
